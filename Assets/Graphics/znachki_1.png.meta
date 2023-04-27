@@ -1,0 +1,2731 @@
+fileFormatVersion: 2
+guid: 6b9ed9763cd37a64f879aa6abc327722
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: znachki_1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1588
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed410695f005674b8aef61d914a0879
+      internalID: 800234836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1589
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea484d61e373bd64f8e033d99668d6ef
+      internalID: 1101945714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1588
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f10bc89601a064a9956061fb545db1
+      internalID: 275759191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1589
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5e1752669e2ca468876435b0e8f642
+      internalID: 129330752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1588
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30235ecc7af8e46835ef25091845c3
+      internalID: -183858099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1588
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b06fff91db244bb630b1914406c29
+      internalID: 13335939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_6
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1588
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2796a862641c6714db184b767f0264ec
+      internalID: 176715098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_7
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1588
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d17b293285004982f766724666b4c
+      internalID: -1107168197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_8
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1589
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dfe5ae1e2453242afadb7d447e0ac9
+      internalID: -615647409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_9
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1588
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd9be545b82504bb602f1d85c99bb2
+      internalID: 14776123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_10
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1589
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906673dcdc024344e920b8983c04d0ca
+      internalID: -2104428723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_11
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1588
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b3c1d29ca7fe43ae82a623066bb20
+      internalID: -1022239712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_12
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1588
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ed4f969eb5434bb65ae49d8452c63
+      internalID: 1370531542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_13
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1588
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec2f16c173b6646b84dc9101b34f48
+      internalID: 1718769852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1381
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e755036855d2ee84aac70beb240493b3
+      internalID: -1115386533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1381
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1219b46b30cf4384d6bfb93b78635
+      internalID: 1209603336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1381
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92f09c66f492744a66517607529403
+      internalID: -1583189067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1381
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4885f924253701441a472f983b8eb83d
+      internalID: -254255376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1381
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b23e7d51cd43541b86c44be9b6e357
+      internalID: 1205388489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_19
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1381
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f6dbc358d76d4890e3cd7c82de80a
+      internalID: -1626407794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_20
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1381
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5969932b56e5f24aa7d4441b240d927
+      internalID: -488186312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_21
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1381
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95280b6e907dcc468f99fec2f844b39
+      internalID: 1939680814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_22
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1381
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bbf8905ba5ee4eb5c9aba93d7d152
+      internalID: 1783279066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_23
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1381
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad97c357101a54cae76c661bc4748c
+      internalID: -606292419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_24
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1381
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b95f60b2652e40bdd6bf8cb394353
+      internalID: 193062181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_25
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1381
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84edec7f6558c0443a549ab14257e5df
+      internalID: 878805541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_26
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1381
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741555fe88a54c42a3e7626fd1cae8d
+      internalID: 1608097880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_27
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1381
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065eddcdb1edea74c9c0fc85fd9ebe99
+      internalID: -1832190696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1173
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1f87b22763164d90c3985de0b88cd
+      internalID: 35526456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1173
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f7f2be6bf58864bbde14498c81254f
+      internalID: -276651579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1173
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb608291f137db74ca1d88a4c185948f
+      internalID: -300287156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1173
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8706d1aa2dab74fb7f32feee718165
+      internalID: -1839781076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_32
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1173
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba763cded112d4a953f92b0e5e13fa
+      internalID: 1908301252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_33
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1173
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368995d700112946bbece1881209024
+      internalID: 1665130493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_34
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1173
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730568d63b123848b27b3233e4f7aeb
+      internalID: -914251235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_35
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1173
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05286c2e50b0fa44ae132cd6074e790
+      internalID: 1171835491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_36
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1173
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e283d794ceb5479135053f0da850b
+      internalID: -734897527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_37
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1173
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6abcc610f5c6574fb81b0fae8bdad49
+      internalID: 303303903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_38
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1173
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574d1eb0ae3e054eb61665b206a0daf
+      internalID: 1449086679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_39
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1173
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b8f1ff597d7048954e9e3d1f153be
+      internalID: 2123681648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_40
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1173
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a3dc060b5eb94592534b870a3ecee
+      internalID: -799879736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_41
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 1173
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6f06d8d59ebf48a5e8c77c2b991c4
+      internalID: -2056352361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 965
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b562cb88cd1c954fa766d251840bfad
+      internalID: 422470812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 966
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbbb6b9fa323641a63c20b68d66f2d
+      internalID: 679543128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 965
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f93c9c98183a248b552f3a0ab9e2e2
+      internalID: 1572739672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 966
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a156754ec95b944958e4431045a3d8
+      internalID: 141577147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 965
+        width: 197
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d64d2a66167d41b8407e2feb3f1da
+      internalID: 1222633629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_47
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 965
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d458add3feee37449494ca031934792
+      internalID: 260652847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_48
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 965
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf94581f1f75b49bc40cde3cc2e624
+      internalID: 246608194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_49
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 965
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99720416856b464438f254c66ea6d0be
+      internalID: -1576690476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_50
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 966
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707815c9207fd04486275a87b6d7704
+      internalID: 940564009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_51
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 965
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e967b60eaa1046b22e6e6d9f0e42a
+      internalID: 560295780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_52
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 966
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c0744ce5694f4895aac6943e868aa
+      internalID: -1629606932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_53
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 965
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49822452bdcf94cbdaf55351d3bfa1
+      internalID: -2089298882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_54
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 965
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc72835bbf71144bec1dedbda0b433
+      internalID: 1461304741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_55
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 965
+        width: 197
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587a8b68f59671478e99694b6b4d4e7
+      internalID: -933440417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 758
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3984bf2f56aa3d4e964e98969521c99
+      internalID: 1681439465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_57
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 758
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d2abd90a6eebd4a9a3986619427d82
+      internalID: -1046331037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 758
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a2b36f3502274d8bcb88456a80dc7
+      internalID: -727844583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_59
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 758
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69854a48d3e2e41a1d35c39cf93a94
+      internalID: 1828273231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_60
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 758
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d585266bcd9f489133464db96711f
+      internalID: 603553693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_61
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 758
+        width: 197
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54da1742ac6ede4dbc0e75e44cf9bf8
+      internalID: 399614027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_62
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 758
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504b8adb17d77a46beb1beec7f27c09
+      internalID: -703704476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_63
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 758
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d75de7ce293ba4a9cfd966e1bf929a
+      internalID: 307322419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_64
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 758
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d38fae30069145458ce3d57377701a8
+      internalID: -1231232449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_65
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 758
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6d12a6863cb7a48b584d14e46ec5d3
+      internalID: 1573542908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_66
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 758
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37670d17c5ba37a4d8450a70c1a4f7f2
+      internalID: -1804118138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_67
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 758
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b20f28e63dbc4fbffa9fa21c60b64
+      internalID: -181803000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_68
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 758
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793219b0569eed4bb24a8d340c95bbc
+      internalID: -1896590008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_69
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 758
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943080e8709cad4aac2205b4b21bfe8
+      internalID: -851944371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 623
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686fac9e61235b24ebb1802210e1529f
+      internalID: -2112102257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 623
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a82acac42b1ed24e98a3d598c402e26
+      internalID: 1290073700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_72
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 626
+        width: 350
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf7452cbc1bba478136e1c4b4d026d
+      internalID: -1838616693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_73
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 625
+        width: 350
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d2438399503841b97f5fcae3b0b30
+      internalID: -722839863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_74
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 623
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ee87b4a1f61345a32f6d965e188bb
+      internalID: 301605252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_75
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 623
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc43962854af14f8de0d6ebd287f52
+      internalID: -1403104136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_76
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 626
+        width: 347
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d024590b3a0b249b1d4c500dc8f08c
+      internalID: -1911767137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_77
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 626
+        width: 350
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002a60c85882f04b8e02d778d4ef40f
+      internalID: 1141420189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_78
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 623
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5e435994b8114cb926fefcafed0a6
+      internalID: -921425087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_79
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 623
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24126569ab8ae4792755f72efc212b
+      internalID: -1742759433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_80
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 626
+        width: 350
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f0f0677f64724b83b13089ea363ed
+      internalID: 899660443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_81
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 626
+        width: 351
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cabd8ea55caa478e1878324728fbd
+      internalID: -1345199837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 486
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14043a30b9a7ef34db6d7ca8d5385aaa
+      internalID: 1013504602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 486
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a19af79ab6654cb9a7f14b49da226
+      internalID: -819237709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_84
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 489
+        width: 350
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0ca0b897bcd64f93916aa36d58112
+      internalID: 1668989750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_85
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 489
+        width: 350
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b4195f28919443a0427dfad0a6176
+      internalID: -1005227589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_86
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 486
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce052597d806594eb2ba6339f9bd1d3
+      internalID: 408971523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_87
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 486
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276996f9f74fa44ba9f4003693b01b1
+      internalID: -1002737695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 489
+        width: 348
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a6f01ef9b553438f2b6e9548c9085
+      internalID: 1682696437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_89
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 489
+        width: 351
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f45cc3db2ef1846897b383360ae067
+      internalID: 50676877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_90
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 486
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d39df91e835245b3619c53bd011ac
+      internalID: -638050135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_91
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 486
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bfcddce844a3047bfc644ec9237771
+      internalID: 587832186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_92
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 489
+        width: 350
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293229041d97e7b4b83c3dab1581db52
+      internalID: -131865163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_93
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 489
+        width: 351
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb09c3dff275234aa4156883a6e3c83
+      internalID: -671822406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_94
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 351
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6831779b1e3a4ca8f9f51369806d8
+      internalID: 1116889729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_95
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 351
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f8d162573a5746b94f4171dd6b821
+      internalID: 2096123436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 351
+        width: 350
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5af63429d926146b7021dae1c13c74
+      internalID: -1882805890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_97
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 351
+        width: 350
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba3d3128885a24283b008fe808b94a
+      internalID: -1185437429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_98
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 351
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d70cf889acd3a4bae79d528918a39c
+      internalID: 1050407455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_99
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 351
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e819161c984494a9087f6b806e71b0
+      internalID: -1318865482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 351
+        width: 350
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e167c950cc6eb04db69d7705c225b78
+      internalID: -510313121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_101
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 351
+        width: 351
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c535a95d9580364ebedc43ef5679eec
+      internalID: -1771222673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_102
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 351
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180b829ea1b9fd4a98112f0319878ff
+      internalID: -518231803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_103
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 351
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0471a7cc6b70c5344a3d797c20574713
+      internalID: 154962448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_104
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 351
+        width: 350
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66ffd26cf3349428228cc4d13feb53
+      internalID: -302540517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_105
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 351
+        width: 351
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc0d681b1527e469aec043b07f35dd
+      internalID: 1328278038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_106
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 218
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed959b0c9c55e439f60ec6e6d1eba7
+      internalID: 1182615634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_107
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 218
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63922d8ed310af54c9274752cf2eb087
+      internalID: -1768249085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_108
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 218
+        width: 353
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ad554e8609114abf33fc8a067f2f2
+      internalID: 1066908053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_109
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 218
+        width: 353
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fc79edeec354741b775fb6aa16c726
+      internalID: 565359838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_110
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 218
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12007facd6c064b4babf976a7ead624c
+      internalID: 744238984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_111
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 218
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1fc451e59e84e4d95a930b55016a10
+      internalID: 839482411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_112
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 218
+        width: 350
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074ea615865ac047aacd32895f8fb8f
+      internalID: -2066852695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_113
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 218
+        width: 351
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6627b8525e3b428519f0cb8d434c6
+      internalID: 1963510767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_114
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 218
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac14cd74c80a74483acbd5bcf2ad25
+      internalID: 432313979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_115
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 218
+        width: 131
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf72d0a179e1ce449c5216357720be2
+      internalID: 429875877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_116
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 218
+        width: 350
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fb9a12c476334c901675a0dad9263
+      internalID: 145397833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: znachki_1_117
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 218
+        width: 351
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24cb6ee468b60b4998704626775ba54
+      internalID: 731435692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 99ca87c8150d2564499ea9cd4f44356c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      znachki_1_0: 800234836
+      znachki_1_1: 1101945714
+      znachki_1_10: -2104428723
+      znachki_1_100: -510313121
+      znachki_1_101: -1771222673
+      znachki_1_102: -518231803
+      znachki_1_103: 154962448
+      znachki_1_104: -302540517
+      znachki_1_105: 1328278038
+      znachki_1_106: 1182615634
+      znachki_1_107: -1768249085
+      znachki_1_108: 1066908053
+      znachki_1_109: 565359838
+      znachki_1_11: -1022239712
+      znachki_1_110: 744238984
+      znachki_1_111: 839482411
+      znachki_1_112: -2066852695
+      znachki_1_113: 1963510767
+      znachki_1_114: 432313979
+      znachki_1_115: 429875877
+      znachki_1_116: 145397833
+      znachki_1_117: 731435692
+      znachki_1_12: 1370531542
+      znachki_1_13: 1718769852
+      znachki_1_14: -1115386533
+      znachki_1_15: 1209603336
+      znachki_1_16: -1583189067
+      znachki_1_17: -254255376
+      znachki_1_18: 1205388489
+      znachki_1_19: -1626407794
+      znachki_1_2: 275759191
+      znachki_1_20: -488186312
+      znachki_1_21: 1939680814
+      znachki_1_22: 1783279066
+      znachki_1_23: -606292419
+      znachki_1_24: 193062181
+      znachki_1_25: 878805541
+      znachki_1_26: 1608097880
+      znachki_1_27: -1832190696
+      znachki_1_28: 35526456
+      znachki_1_29: -276651579
+      znachki_1_3: 129330752
+      znachki_1_30: -300287156
+      znachki_1_31: -1839781076
+      znachki_1_32: 1908301252
+      znachki_1_33: 1665130493
+      znachki_1_34: -914251235
+      znachki_1_35: 1171835491
+      znachki_1_36: -734897527
+      znachki_1_37: 303303903
+      znachki_1_38: 1449086679
+      znachki_1_39: 2123681648
+      znachki_1_4: -183858099
+      znachki_1_40: -799879736
+      znachki_1_41: -2056352361
+      znachki_1_42: 422470812
+      znachki_1_43: 679543128
+      znachki_1_44: 1572739672
+      znachki_1_45: 141577147
+      znachki_1_46: 1222633629
+      znachki_1_47: 260652847
+      znachki_1_48: 246608194
+      znachki_1_49: -1576690476
+      znachki_1_5: 13335939
+      znachki_1_50: 940564009
+      znachki_1_51: 560295780
+      znachki_1_52: -1629606932
+      znachki_1_53: -2089298882
+      znachki_1_54: 1461304741
+      znachki_1_55: -933440417
+      znachki_1_56: 1681439465
+      znachki_1_57: -1046331037
+      znachki_1_58: -727844583
+      znachki_1_59: 1828273231
+      znachki_1_6: 176715098
+      znachki_1_60: 603553693
+      znachki_1_61: 399614027
+      znachki_1_62: -703704476
+      znachki_1_63: 307322419
+      znachki_1_64: -1231232449
+      znachki_1_65: 1573542908
+      znachki_1_66: -1804118138
+      znachki_1_67: -181803000
+      znachki_1_68: -1896590008
+      znachki_1_69: -851944371
+      znachki_1_7: -1107168197
+      znachki_1_70: -2112102257
+      znachki_1_71: 1290073700
+      znachki_1_72: -1838616693
+      znachki_1_73: -722839863
+      znachki_1_74: 301605252
+      znachki_1_75: -1403104136
+      znachki_1_76: -1911767137
+      znachki_1_77: 1141420189
+      znachki_1_78: -921425087
+      znachki_1_79: -1742759433
+      znachki_1_8: -615647409
+      znachki_1_80: 899660443
+      znachki_1_81: -1345199837
+      znachki_1_82: 1013504602
+      znachki_1_83: -819237709
+      znachki_1_84: 1668989750
+      znachki_1_85: -1005227589
+      znachki_1_86: 408971523
+      znachki_1_87: -1002737695
+      znachki_1_88: 1682696437
+      znachki_1_89: 50676877
+      znachki_1_9: 14776123
+      znachki_1_90: -638050135
+      znachki_1_91: 587832186
+      znachki_1_92: -131865163
+      znachki_1_93: -671822406
+      znachki_1_94: 1116889729
+      znachki_1_95: 2096123436
+      znachki_1_96: -1882805890
+      znachki_1_97: -1185437429
+      znachki_1_98: 1050407455
+      znachki_1_99: -1318865482
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
